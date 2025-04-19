@@ -1,0 +1,4 @@
+El flujo de trabaajo básico de Git consiste en:
+1-
+2
+3[A-[B[D-[A[A[A[BHacer cambios en el repositorio[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DAñadir los cambios a la zona de intercambio temporal.[B[D[A[D[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D.[D[D[B[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DHacer un commit de los cambios
